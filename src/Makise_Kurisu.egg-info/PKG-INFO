@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: Makise-Kurisu
+Version: 0.1.0
+Summary: Makise-Kurisu
+Requires-Python: <4.0,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: nonebot2[fastapi,httpx,websockets]>=2.4.4
+Requires-Dist: nonebot-adapter-onebot>=2.4.6
+Requires-Dist: pixivpy3>=3.7.2
+Requires-Dist: nonebot-plugin-apscheduler>=0.3.0
+
+# Makise-Kurisu
+
+## How to start
+
+1. generate project using `nb create` .
+2. install plugins using `nb plugin install` .
+3. run your bot using `nb run` .
+
+## Documentation
+
+See [Docs](https://nonebot.dev/)
